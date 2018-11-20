@@ -1,0 +1,17 @@
+{
+  "name": "website-planning",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "babel-preset-react": "^6.24.1",
+    "jquery": "^3.3.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-slick": "^0.23.2",
+    "showdown": "^1.9.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
