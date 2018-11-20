@@ -81,3 +81,5 @@ gem "haml", "~> 5.0"
 
 gem "meta-tags", "~> 2.11"
 ruby '2.4.0'
+
+gem 'mini_racer', platforms: :ruby

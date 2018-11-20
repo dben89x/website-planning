@@ -8,6 +8,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-on-rails": "11.1.8",
     "react-slick": "^0.23.2",
     "showdown": "^1.9.0"
   },
